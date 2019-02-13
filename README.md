@@ -20,8 +20,6 @@
 
 - 7DGroup
 
-  ![image-20190214005237998](/Users/yuanshichao/Library/Application Support/typora-user-images/image-20190214005237998.png){:height="50" width="50"}
-
 🥝 博客
 
 - [2018年最新Java面试题及答案整理](https://blog.csdn.net/qq_41701956/article/details/80250226)
