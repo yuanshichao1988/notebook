@@ -42,7 +42,7 @@
 - [架构经验](https://github.com/aalansehaiyang/technology-talk/blob/master/system-architecture/architecture-experience.md)
 - [程序员面试指南](https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md)
 - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
-- [处于萌芽阶段的 Java 核心知识库](ttps://github.com/crossoverJie/JCSprout)
+- [处于萌芽阶段的 Java 核心知识库](https://github.com/crossoverJie/JCSprout)
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 - [🌱🌱Java服务端知识技能图谱](https://github.com/caison/java-knowledge-mind-map)
 - [BATJ面试总结](https://github.com/xbox1994/2018-Java-Interview)
