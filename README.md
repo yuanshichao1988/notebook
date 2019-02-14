@@ -25,6 +25,7 @@
 - [2018年最新Java面试题及答案整理](https://blog.csdn.net/qq_41701956/article/details/80250226)
 - [CMS Blog](http://www.cmsblog.com)
 - [中华石杉的课程](https://blog.csdn.net/lily199198/article/details/86624487)
+- [biezhi](https://blog.biezhi.me)
 
 🍋 网站
 
@@ -51,6 +52,7 @@
 🥕 其他文章
 
 - [我是如何 6 天面试了 6 家硅谷顶级公司并拿下了 6 份 Offer 的？](https://blog.csdn.net/csdnnews/article/details/87128971)
+- [如何简单理解GC roots和 gc的标记过程](https://www.jianshu.com/p/4a1080373096)
 
 ### 🦒 学习书籍
 
