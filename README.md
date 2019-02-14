@@ -38,16 +38,18 @@
 
 🍍 Github
 
-- https://github.com/Snailclimb/JavaGuide
-- https://github.com/aalansehaiyang/technology-talk/blob/master/system-architecture/architecture-experience.md
-- https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md
-- https://github.com/CyC2018/CS-Notes
-- https://github.com/crossoverJie/JCSprout
+- [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
+- [架构经验](https://github.com/aalansehaiyang/technology-talk/blob/master/system-architecture/architecture-experience.md)
+- [程序员面试指南](https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md)
+- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+- [处于萌芽阶段的 Java 核心知识库](ttps://github.com/crossoverJie/JCSprout)
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer)
 - [🌱🌱Java服务端知识技能图谱](https://github.com/caison/java-knowledge-mind-map)
-- [互联网程序员该懂的架构知识]
-- [各大互联网公司架构]
 - [BATJ面试总结](https://github.com/xbox1994/2018-Java-Interview)
+- [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+- [微信技术架构,腾讯技术架构](https://github.com/davideuler/architecture.wechat-tencent)
+- [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+- [面试基础知识](https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md)
 
 🥕 其他文章
 
