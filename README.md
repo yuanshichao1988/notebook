@@ -51,6 +51,8 @@
 - [微信技术架构,腾讯技术架构](https://github.com/davideuler/architecture.wechat-tencent)
 - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 - [面试基础知识](https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md)
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+- [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 
 🥕 其他文章
 
