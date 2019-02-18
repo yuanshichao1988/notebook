@@ -53,6 +53,7 @@
 - [面试基础知识](https://github.com/youjunyu/Programmer-s-Guide/blob/master/README.md)
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 - [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
+- [basketball_manelephant秒杀系统设计与实现](https://github.com/qiurunze123/miaosha?utm_source=gold_browser_extension)
 
 🥕 其他文章
 
