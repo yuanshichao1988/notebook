@@ -24,6 +24,8 @@
 
 - 7DGroup
 
+- [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s/hlAn6NPR1w-MAwqghX1FPg)
+
 🥝 博客
 
 - [Java 面试题 —— 精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
