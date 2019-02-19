@@ -54,6 +54,7 @@
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 - [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha?utm_source=gold_browser_extension)
+- [Java并发知识点总结](https://github.com/CL0610/Java-concurrency)
 
 🥕 其他文章
 
