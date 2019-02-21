@@ -34,6 +34,7 @@
 - [中华石杉的课程](https://blog.csdn.net/lily199198/article/details/86624487)
 - [biezhi](https://blog.biezhi.me)
 - [柳伟卫/老卫](https://waylau.com)
+- [许文杰的博客](https://blog.csdn.net/weixin_37672169)
 
 🍋 网站
 
