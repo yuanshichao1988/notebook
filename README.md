@@ -26,6 +26,8 @@
 
 - [Java 工程师成神之路 | 2019正式版](https://mp.weixin.qq.com/s/hlAn6NPR1w-MAwqghX1FPg)
 
+-[2018 全年 Java 核心基础问题汇总](https://mp.weixin.qq.com/s?__biz=MzI3ODc3NzQ4NQ==&mid=2247485404&idx=1&sn=0dedc52d10fd555884e59a8b1f49c3d6&chksm=eb509c3edc27152884282bf61cdda20b2ffc5e5c0d345fb802bd2af480bbcf60f2eefa148d95&mpshare=1&scene=1&srcid=0222bdy4j5tgtnQMpI48YOmW#rd)
+
 🥝 博客
 
 - [Java 面试题 —— 精品合集](http://www.iocoder.cn/Interview/good-collection/?title)
