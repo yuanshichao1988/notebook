@@ -2,7 +2,7 @@
 
 ## <center>面试，你准备好了么？:balloon: </center>
 
-### :wolf:简历制作
+### :wolf: 简历制作
 
 - [冷熊简历](http://cv.ftqq.com/)
 
@@ -71,7 +71,7 @@
 
 整理中......
 
-### 🦜 面试题整理
+### :whale: 面试题整理
 
 1.`Lock`和`synchronized`区别
 
