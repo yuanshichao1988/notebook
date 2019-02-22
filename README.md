@@ -2,7 +2,7 @@
 
 ## <center>面试，你准备好了么？:balloon: </center>
 
-### 简历制作
+### :wolf:简历制作
 
 - [冷熊简历](http://cv.ftqq.com/)
 
