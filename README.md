@@ -1,5 +1,3 @@
-# Hello-2019
-
 ## <center>面试，你准备好了么？:balloon: </center>
 
 ### :wolf: 简历制作
