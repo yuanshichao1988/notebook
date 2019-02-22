@@ -65,7 +65,7 @@
 - [分布式架构知识体系](https://mp.weixin.qq.com/s?__biz=MzU2NjIzNDk5NQ==&mid=2247485639&idx=1&sn=856d16527027a688126c1e0c4d86089b&chksm=fcaed2dbcbd95bcd089cbc7d9b383947a854b18ca96780878f7e340cc5506805747d5ba26839&scene=0&xtrack=1#rd)
 - [Github寻宝指南](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486988&idx=1&sn=ac4c4d8228627df54c45b5ec1bea2b3f&chksm=ebf6d673dc815f6524b96656277a8c62714b2eea6cdbf3a960758d15df19d34f0240158cd5ec&scene=0#rd)
 
-### 🦒 学习书籍
+### :neckbeard: 学习书籍
 
 - [时间管理类入门书籍分享](http://tengj.top/2018/04/28/sjgl/)
 
