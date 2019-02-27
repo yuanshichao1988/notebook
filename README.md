@@ -1,8 +1,8 @@
-## <center>面试，你准备好了么？:balloon: </center>
+## <center><font color="GREEN">面试，你准备好了么？</font>:balloon: </center>
 
 ### :christmas_tree: 今天学点啥
 
-- [<FONT COLOR="#086">今天学点啥</FONT>](https://github.com/yuanshichao1988/Hello-2019/tree/master/learning)
+- [今天学点啥](https://github.com/yuanshichao1988/Hello-2019/tree/master/learning)
 
 ### :wolf: 简历制作
 
