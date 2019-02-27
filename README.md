@@ -1,6 +1,3 @@
-
-![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
----
 ## <center><font color="GREEN">面试，你准备好了么？</font>:balloon: </center>
 
 ### :christmas_tree: 今天学点啥
@@ -71,6 +68,7 @@
 - [分布式架构知识体系](https://mp.weixin.qq.com/s?__biz=MzU2NjIzNDk5NQ==&mid=2247485639&idx=1&sn=856d16527027a688126c1e0c4d86089b&chksm=fcaed2dbcbd95bcd089cbc7d9b383947a854b18ca96780878f7e340cc5506805747d5ba26839&scene=0&xtrack=1#rd)
 - [Github寻宝指南](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486988&idx=1&sn=ac4c4d8228627df54c45b5ec1bea2b3f&chksm=ebf6d673dc815f6524b96656277a8c62714b2eea6cdbf3a960758d15df19d34f0240158cd5ec&scene=0#rd)
 - [攻破JAVA NIO技术壁垒](http://www.importnew.com/19816.html)
+- [SpringBoot相关的面试问题](https://juejin.im/post/5c749aebe51d45163461b166?utm_source=gold_browser_extension)
 
 ### :neckbeard: 学习书籍
 
