@@ -1,5 +1,9 @@
 ## <center>面试，你准备好了么？:balloon: </center>
 
+### :christmas_tree: 今天学点啥
+
+- [今天学点啥](https://github.com/yuanshichao1988/Hello-2019/tree/master/learning)
+
 ### :wolf: 简历制作
 
 - [冷熊简历](http://cv.ftqq.com/)
