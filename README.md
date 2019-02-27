@@ -2,7 +2,7 @@
 
 ### :christmas_tree: 今天学点啥
 
-- [今天学点啥](https://github.com/yuanshichao1988/Hello-2019/tree/master/learning)
+- [<FONT COLOR="#086">今天学点啥</FONT>](https://github.com/yuanshichao1988/Hello-2019/tree/master/learning)
 
 ### :wolf: 简历制作
 
@@ -59,6 +59,7 @@
 - [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Awesome-offer)
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha?utm_source=gold_browser_extension)
 - [Java并发知识点总结](https://github.com/CL0610/Java-concurrency)
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 🥕 其他文章
 
